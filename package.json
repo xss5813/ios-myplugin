@@ -1,0 +1,17 @@
+{
+  "name": "com.test.helloworld",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.test.helloworld",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "sam",
+  "license": "ISC"
+}
